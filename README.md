@@ -1,6 +1,6 @@
-# 📊 Portal Counter
+# Portal Counter
 
-> ⚠️ **Status: Planning**
+> **Status: Planning**
 >
 > This repository is a placeholder for a planned project. **No implementation exists yet.**
 > Star or watch the repo to be notified when development starts.
